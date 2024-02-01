@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782304080920",
+    "firebase_url": "https://loginscreen-e9a0c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginscreen-e9a0c",
+    "storage_bucket": "loginscreen-e9a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782304080920:android:385c4e84576948bdd4bf6d",
+        "android_client_info": {
+          "package_name": "com.login_page.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrvuCliC3Tqxd5_vJ4BMGy8EmryccFmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
